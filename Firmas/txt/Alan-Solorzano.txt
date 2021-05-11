@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <table align="center"  cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
+        <tr>
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="240" valign="top">
+                            <img src="https://i.postimg.cc/pTfcTNvy/AM-Fotos-Firmas-Alan-Solorzano.png" alt="ALAN SOLORZANO" style="margin-left: 60px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="280" valign="top">
+                            <h3 style="color: #006581; font-family: 'Montserrat', sans-serif; margin-top: 5px; margin-bottom: 0px; font-size: 1.5em;">Alan Solorzano</h3>
+                            <img src="https://i.postimg.cc/qM31gg3b/AM-Promotion-Supervisor.png" alt="PROMOTION SUPERVISOR" style="margin-top: 0px;"/>
+                            <a href="" style="text-decoration: none;">
+                                <h6 style="color: #006581; font-family: 'Rubik', sans-serif; margin-top: 5px; margin-bottom: 0px;">619-309-2292 <span style="color: #AED138; font-family: 'Rubik', sans-serif;">Ext</span> 403</h6>
+                            </a>
+                            
+                            <h6 style="color: #AED138; font-family: 'Rubik', sans-serif;margin-top: 5px; margin-bottom: 5px;">Toll Free Number</h6>
+                            <a href="mailto:executive3@amazing-mexico.com?Subject=Contact%20Promotion%20Supervisor" style="text-decoration: none;">
+                                <h6 style="color: #006581; font-family: 'Rubik', sans-serif; margin-top: 0px;">executive3@amazing-mexico.com</h6>
+                            </a>
+                            
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
